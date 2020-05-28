@@ -1,8 +1,7 @@
 # Staffjoy 教学版
 
 微服务和云原生架构教学案例项目，基于 Spring Boot 和 Kubernetes 技术栈
-
-<img src="doc/images/bobo_promote.jpg" width="500" height="400">
+ 
 
 ## 课程资料 PPT
 
